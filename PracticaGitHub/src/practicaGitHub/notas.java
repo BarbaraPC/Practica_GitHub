@@ -101,6 +101,9 @@ public class notas {
 		// creamos mecanimos para llamar a cualquier metodo fuero de la clase
 		notas fc= new notas();
 		
+		System.out.println("Bienvenido al programa de notas");
+
+		
 		fc.IngresaNotas();
 		
 		fc.comprobarcion();
